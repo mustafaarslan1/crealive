@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog-crealive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crealive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crealive-blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crealive-test-case" vcs="Git" />
+  </component>
+</project>
